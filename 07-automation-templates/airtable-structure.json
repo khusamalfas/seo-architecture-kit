@@ -1,2 +1,7 @@
-# airtable-structure.json
-Placeholder content.
+{
+  "tables": [
+    "Content Map",
+    "Clusters",
+    "Pages"
+  ]
+}

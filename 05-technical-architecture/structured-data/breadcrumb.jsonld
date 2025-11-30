@@ -1,2 +1,4 @@
-# breadcrumb.jsonld
-Placeholder content.
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList"
+}

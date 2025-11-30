@@ -1,2 +1,5 @@
-# organization.jsonld
-Placeholder content.
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Example Organization"
+}

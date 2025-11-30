@@ -1,2 +1,9 @@
-# article.jsonld
-Placeholder content.
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Example article",
+  "author": {
+    "@type": "Person",
+    "name": "Author Name"
+  }
+}

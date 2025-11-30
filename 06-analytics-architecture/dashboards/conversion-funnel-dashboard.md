@@ -1,2 +1,6 @@
-# conversion-funnel-dashboard.md
-Placeholder content.
+# Conversion Funnel Dashboard
+
+Visualise:
+- Visits → engaged users → leads → customers
+- Drop-off points
+- Channel comparison

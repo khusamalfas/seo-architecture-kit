@@ -1,2 +1,5 @@
-# medical-service.jsonld
-Placeholder content.
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalService",
+  "name": "Example medical service"
+}
